@@ -1,0 +1,9 @@
+--- Using ConsoleLogger ---
+[Console] Application started
+[Console] Processing data...
+[Console] Application finished
+
+--- Using FileLogger ---
+File: Application started
+File: Processing data...
+File: Application finished
